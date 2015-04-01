@@ -124,7 +124,7 @@ page.10.file.stdWrap.cObject {
   default.insertData = 1
 }
 
-page.includeCSS.theme = EXT:adico_evolution/Resources/Private/Less/Theme/theme.less
+page.includeCSS.theme = EXT:adico_evolution2/Resources/Private/Less/Theme/theme.less
 
 page {
     jsFooterInline {
