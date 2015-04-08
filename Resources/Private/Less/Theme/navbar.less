@@ -297,7 +297,7 @@ a {
 			border-left: 0;
 			border-radius: 5px 0 0 5px;
 		}
-	
+
 		> li:last-child > a {
 			border-radius: 0 5px 5px 0;
 			border-right: 0;
@@ -317,53 +317,3 @@ a {
 		padding-right: 0;
 	}
 }
-.sidebar-nav {
-	background-color: @evolution-bg;
-	border-radius: 6px;
-	border: 1px solid @evolution-bg;
-}
-	/* make sidebar nav vertical */ 
-@media (min-width: 768px) {
-	.sidebar-nav {
-		.navbar {
-			.navbar-collapse {
-				padding: 0;
-				max-height: none;
-			}
-			> ul {
-				float: none;
-	  			&:not {
-					display: block;
-	  			}
-	  		}
-
-		  	> li {
-				float: none;
-				display: block;
-				> a {
-					padding-top: 12px;
-					padding-bottom: 12px;
-		  		}
-			}
-		}
-	}
-}
-@media (min-width: 768px) {
-	  /* uncomment if you would like the menu to be fixed */
-	  /* .navbar {
-		  position: fixed;
-		  width: 170px;
-		  z-index: 2;
-	  } */
-}
-@media (min-width: 992px) {
-	.navbar {
-		 width: 212px;
-	}
-}
-@media (min-width: 1200px) {
-	.navbar {
-		width: 262px;
-	}
-}
-.sidebar-nav .navbar-header{ float: none; }

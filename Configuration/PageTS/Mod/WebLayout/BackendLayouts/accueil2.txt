@@ -53,7 +53,7 @@ mod {
                         }
                     }
                 }
-                icon = EXT:adico_evolution2/Resources/Public/Images/BackendLayouts/evolution.gif
+                icon = EXT:adico_evolution2/Resources/Public/Images/BackendLayouts/evo1_accueil.gif
             }
         }
     }
