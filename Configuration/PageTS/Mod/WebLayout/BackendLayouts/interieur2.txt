@@ -1,5 +1,5 @@
 ################################
-####  BELAYOUT: DECOUVERTE  ####
+####  BELAYOUT: EVOLUTION2  ####
 ################################
 mod {
     web_layout {
