@@ -1,5 +1,5 @@
 ################################
-####  BELAYOUT: DECOUVERTE  ####
+####  BELAYOUT: EVOLUTION2  ####
 ################################
 mod {
     web_layout {
@@ -35,7 +35,7 @@ mod {
                         }
                     }
                 }
-                icon = EXT:adico_evolution2/Resources/Public/Images/BackendLayouts/interieur.gif
+                icon = EXT:adico_evolution2/Resources/Public/Images/BackendLayouts/evo2_interieur.gif
             }
         }
     }

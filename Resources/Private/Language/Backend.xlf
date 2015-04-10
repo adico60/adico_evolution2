@@ -1,32 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <xliff version="1.0">
 	<file source-language="en" datatype="plaintext" original="messages" date="2013-09-19T09:11:39Z"
-		  product-name="adico_evolution">
+		  product-name="adico_evolution2">
 		<header/>
 		<body>
 
 			<trans-unit id="theme_name">
-				<source>Decouverte</source>
+				<source>Evolution 2</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.accueil">
-				<source>Accueil</source>
+				<source>Accueil  Evolution 2</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.interieur">
-				<source>Interieur</source>
+				<source>Interieur Evolution 2</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.gauche">
-				<source>Colonne de gauche</source>
+				<source>Colonne de gauche Evolution 2</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.milieu">
-				<source>Colonne du milieu</source>
+				<source>Colonne du milieu Evolution 2</source>
 			</trans-unit>
 
 			<trans-unit id="backend_layout.column.droite">
-				<source>Colonne de droite</source>
+				<source>Colonne de droite Evolution 2</source>
 			</trans-unit>
 
 		</body>
