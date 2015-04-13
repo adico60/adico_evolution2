@@ -12,16 +12,7 @@ plugin.bootstrap_package {
 			font-size-h3    = ceil((@font-size-base * 1.7))
 			font-size-h4    = ceil((@font-size-base * 1.25))
 			font-size-h5    = @font-size-base
-			.yahooweather {
-                          background: transparent;
-                          padding: 0 25px;
-                          width: 100%;
-			  border-style: ridge;
-			  border-color: #FFFFFF;
-        		}
-        		.yahooweather a {
-                	  color: transparent;
-       			 }
+			
 		}
 	}
 }
