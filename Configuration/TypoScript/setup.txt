@@ -1,3 +1,5 @@
+<INCLUDE_TYPOSCRIPT: source="FILE: fileadmin/formhandler/basic-examples/contact-form/ts/ts_setup.txt">
+
 ####################
 #### NAVIGATION ####
 ####################
@@ -148,5 +150,4 @@ page {
         }
     }
 }
-
 
