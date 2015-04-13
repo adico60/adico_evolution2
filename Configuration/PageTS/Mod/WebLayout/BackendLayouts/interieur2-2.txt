@@ -1,0 +1,39 @@
+################################
+####  BELAYOUT: EVOLUTION2  ####
+################################
+mod {
+    web_layout {
+        BackendLayouts {
+            interieur2-2 {
+                title = LLL:EXT:adico_evolution2/Resources/Private/Language/Backend.xlf:backend_layout.interieur2
+                config {
+                    backend_layout {
+                        colCount = 10
+                        rowCount = 1
+                        rows {
+                            1 {
+                                columns {
+                                    1 {
+                                        name = menu vertical
+                                        colspan = 2
+                                    }
+                                    2 {
+                                        name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.0
+                                        colPos = 1
+                                        colspan = 6
+                                    }
+                                    3 {
+                                        name = LLL:EXT:cms/locallang_ttc.xlf:colPos.I.1
+                                        colPos = 0
+                                        colspan = 2
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+                icon = EXT:adico_evolution2/Resources/Public/Images/BackendLayouts/evo2_interieur2.gif
+            }
+        }
+    }
+}
