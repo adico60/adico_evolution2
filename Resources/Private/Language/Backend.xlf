@@ -16,10 +16,6 @@
 			<trans-unit id="backend_layout.interieur">
 				<source>Interieur Evolution 2</source>
 			</trans-unit>
-			
-			<trans-unit id="backend_layout.interieur2">
-				<source>Interieur2 Evolution 2</source>
-			</trans-unit>
 
 			<trans-unit id="backend_layout.clean">
 				<source>Page large  Evolution 2</source>
