@@ -17,6 +17,10 @@
 				<source>Interieur Evolution 2</source>
 			</trans-unit>
 
+			<trans-unit id="backend_layout.clean">
+				<source>Page large  Evolution 2</source>
+			</trans-unit>
+
 			<trans-unit id="backend_layout.column.gauche">
 				<source>Colonne de gauche Evolution 2</source>
 			</trans-unit>

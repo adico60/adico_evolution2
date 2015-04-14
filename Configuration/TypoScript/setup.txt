@@ -121,6 +121,10 @@ page.10.file.stdWrap.cObject {
   bootstrap_package__interieur2.value = {$page.fluidtemplate.templateRootPath}Interieur.html
   bootstrap_package__interieur2.insertData = 1
 
+  bootstrap_package__clean2 = TEXT
+  bootstrap_package__clean2.value = {$page.fluidtemplate.templateRootPath}Clean.html
+  bootstrap_package__clean2.insertData = 1
+
   default = TEXT
   default.value = {$page.fluidtemplate.templateRootPath}Interieur.html
   default.insertData = 1
